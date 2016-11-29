@@ -1,0 +1,9 @@
+========================
+S&PMotorBet - Admin
+========================
+
+Questo applicativo è stato realizzato nell'ambito dell'insegnamento di ingegneria del Software del Corso di Laurea Magistrale in Ingegneria Informatica dell'Università degli Studi di Catania,
+dagli studenti Paolo Walter Modica e Salvatore Quattropani.
+L'approccio seguito durante tutta la fase di progettazione ed implementazione è di tipo iterativo, con progressivo raffinamento dei requisiti e funzionalità del sistema in discussione. in particolare nelle prime A conclusione di tale lavoro e dopo aver applicato gli unit test con JUnit, effettuando le opportune correzioni al codice, è stata prodotta la versione del programma "adminSPMotorbet.jar", presente in questa cartella.
+Tale programma rappresenta il primo modulo del software implementato, ovvero quella parte del sistema che viene utilizzata dall'amministratore dell'attività del Centro Scommesse per la gestione dei clienti e dei conti a questi associati.
+Nel suo funzionamento, il software qui prodotto accede ad un database posto sul server locale MySql (localhost).
